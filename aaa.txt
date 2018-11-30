@@ -1,5 +1,6 @@
 Git is a distributed version control system.
 Git is free software.
+git is good.
 
 
 ios¹Ø±Õpir°´Å¥
